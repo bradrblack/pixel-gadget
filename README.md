@@ -1,5 +1,5 @@
 # pixel-gadget
-Pixel Gadget is based on the DemoReel100 FastLED Demo by Mark Kriegsman and as modified by Andrew Tuline for button suppor.  The "confetti" demo is used and extended with rotary encoder support to change color, intensity (number of active pixels), brightness and ability to auto-cycle the colors or persist the current chosen color.
+Pixel Gadget is based on the DemoReel100 FastLED Demo by Mark Kriegsman and as modified by Andrew Tuline for button support.  The "confetti" demo is used and extended with rotary encoder support to change color, intensity (number of active pixels), brightness and ability to auto-cycle the colors or persist the current chosen color.
 
 User Guide:
 
