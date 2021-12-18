@@ -13,7 +13,8 @@ User Guide:
     - double click = save for restart
     - long press = screen off
 
-![pixel-gadget oak box](https://github.com/bradrblack/pixel-gadget/blob/main/pixel-gadget.png)
-![pixel-gadget parts](https://github.com/bradrblack/pixel-gadget/blob/main/pg-parts.png)
+| col 1      | col 2      | 
+|------------|-------------| 
+![pixel-gadget oak box](https://github.com/bradrblack/pixel-gadget/blob/main/pixel-gadget.png)|![pixel-gadget parts](https://github.com/bradrblack/pixel-gadget/blob/main/pg-parts.png)
 
 Source code for ESP8266/ESP32 coming soon.
