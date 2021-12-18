@@ -14,7 +14,6 @@ User Guide:
     - long press = screen off
 
 
-|------------|-------------| 
-![pixel-gadget oak box](https://github.com/bradrblack/pixel-gadget/blob/main/pixel-gadget.png)|![pixel-gadget parts](https://github.com/bradrblack/pixel-gadget/blob/main/pg-parts.png)
+![pixel-gadget oak box](https://github.com/bradrblack/pixel-gadget/blob/main/pixel-gadget.png)![pixel-gadget parts](https://github.com/bradrblack/pixel-gadget/blob/main/pg-parts.png)
 
 Source code for ESP8266/ESP32 coming soon.
