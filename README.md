@@ -13,7 +13,5 @@ Pixel Gadget is based on the DemoReel100 FastLED Demo by Mark Kriegsman and as m
     - long press = screen off
 
 
-![pixel-gadget oak box](https://github.com/bradrblack/pixel-gadget/blob/main/pixel-gadget.png)![pixel-gadget parts](https://github.com/bradrblack/pixel-gadget/blob/main/pg-parts.png)
-![pixel-gadget diagram](https://github.com/bradrblack/pixel-gadget/blob/main/pixel-gadget-diagram.png)
-
-Source code for ESP8266/ESP32 coming soon.
+![pixel-gadget oak box](./pixel-gadget.png)![pixel-gadget parts](./pg-parts.png)
+![pixel-gadget diagram](./pixel-gadget-diagram.png)
