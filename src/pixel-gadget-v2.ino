@@ -12,7 +12,7 @@
  * Program reads display mode + options from EEPROM and displays it.
  * Button Option:
  *  - Click to change to the next color
- *  - Hold button for > 1 second to write the current mode to EEPROM.
+ *  - Hold button for > 1 second to shut off screen and write the current mode to EEPROM.
  *  - Double click to change intensity
  * 
  * Rotary Encoder Option:
