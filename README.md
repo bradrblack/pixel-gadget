@@ -15,3 +15,8 @@ Pixel Gadget is based on the DemoReel100 FastLED Demo by Mark Kriegsman and as m
 
 ![pixel-gadget oak box](./pixel-gadget.png)![pixel-gadget parts](./pg-parts.png)
 ![pixel-gadget diagram](./pixel-gadget-diagram.png)
+
+## 3D Printed Case:
+A friend came up with this cool 3D printed case - STL files available for download.
+
+![pixel-gadget-3d-print-case](./pixel-gadget-3d-print-case-v1.png)
